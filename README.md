@@ -63,7 +63,7 @@ Each UniswapV2 pair charges a `0.3%` fee.
 
 ## Testnet
 
-If you want to test this on Rinkeby instead of mainnet, you'll need to change [these two lines](https://github.com/Austin-Williams/uniswap-flash-swapper/blob/master/UniswapFlashSwapper.sol#L12-L13) in order to use the correct WETH and DAI addresses for Rinkeby.
+If you want to test this on Rinkeby instead of mainnet, you'll need to use the WETH and DAI addresses for Rinkeby. See corresponding PR #4 for help.
 
 ## Testing
 
