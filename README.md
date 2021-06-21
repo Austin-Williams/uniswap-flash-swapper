@@ -15,7 +15,7 @@ These contracts have not been audited. Be careful.
   - The address of the token you want to use to pay back the loan (`_tokenPay`) -- use the zero address for ETH
   - Any custom `_userData` you want to be made available to you in the `execute` function
 
-**Note:** If you want to do a traditional flash loan, where you pay back the loan using the same token that you borrowed, then just enter the address of the token you want to borrow for both the `_tokenBorrow` and `_tokenPay` paramters (using the zero address if you want ETH).
+**Note:** If you want to do a traditional flash loan, where you pay back the loan using the same token that you borrowed, then just enter the address of the token you want to borrow for both the `_tokenBorrow` and `_tokenPay` parameters (using the zero address if you want ETH).
 
 ### Example 1
 
