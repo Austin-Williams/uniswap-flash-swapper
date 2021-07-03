@@ -50,7 +50,7 @@ contract ExampleContract is UniswapFlashSwapper {
 
 ### Example 2
 
-See the [`Example.sol` contract](https://github.com/Austin-Williams/uniswapv2-flash-loan-template/blob/master/Example.sol) for a more complete example that should work on mainnet.
+See the [`Example.sol` contract](https://github.com/Austin-Williams/uniswap-flash-swapper/blob/master/contracts/Example.sol) for a more complete example that should work on mainnet.
 
 ## Fees
 
